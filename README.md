@@ -44,5 +44,5 @@ Garbage in, garbage out: LLM performance depends more on input data than clever 
 Stratified sampling helps build a much more reliable dataset.
 Human-in-the-loop QA is crucial, especially for long records where LLMs might hallucinate.
 
-
+[Back to Portfolio](https://cc-odonnell.github.io/portfolio)
 
